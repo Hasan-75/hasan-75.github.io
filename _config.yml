@@ -1,0 +1,17 @@
+title: "💻 Mahmudul Hasan"
+description: "Fullstack Software Engineer (C# • F# • .NET • MSSQL • React)"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# GitHub Pages metadata
+url: "https://hasan75.github.io"
+baseurl: ""
+
+# Social links for minima
+author:
+  name: "Mahmudul Hasan"
+  linkedin: "https://www.linkedin.com/in/hasan-75"
+  medium: "https://doodlesofhasan.com"
