@@ -1,0 +1,6 @@
+header,
+.site-header,
+.page-header,
+#title {
+    display: none !important;
+}
