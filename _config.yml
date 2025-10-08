@@ -1,6 +1,6 @@
 title: "💻 Mahmudul Hasan"
 description: "Fullstack Software Engineer (C# • F# • .NET • MSSQL • React)"
-theme: jekyll-theme-cayman-dark
+theme: jekyll-theme-midnight
 markdown: kramdown
 plugins:
   - jekyll-feed
