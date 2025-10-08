@@ -1,9 +1,8 @@
 title: "💻 Mahmudul Hasan"
 description: "Fullstack Software Engineer (C# • F# • .NET • MSSQL • React)"
-remote_theme: abhinavs/moonwalk
+theme: jekyll-theme-slate
 markdown: kramdown
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
@@ -16,6 +15,3 @@ author:
   name: "Mahmudul Hasan"
   linkedin: "https://www.linkedin.com/in/hasan-75"
   medium: "https://doodlesofhasan.com"
-
-moonwalk:
-  default_color_mode: dark

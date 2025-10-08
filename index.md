@@ -165,7 +165,6 @@
 <p>
     <img src="https://github-readme-stats-nine-eta-oemo7qcowl.vercel.app/api/top-langs/?username=Hasan-75&amp;layout=compact&amp;theme=vision-friendly-dark&amp;count_private=true" alt="Top Languages" width="25%">
 </p>
-</p>
 <hr>
 <p>💬 Feel free to explore my repos and connect if you’re working on <strong>healthcare tech, AI, or large-scale platforms</strong> — or if you just want to geek out about <strong>software architecture and innovation</strong>. </p>
 <hr>
