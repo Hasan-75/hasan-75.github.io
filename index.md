@@ -5,7 +5,7 @@
     <img src="images/profile.jpg" alt="Hasan" width="150" style="border-radius: 50%; border: 4px solid white; margin-bottom: 10px;">
     <h1>👋 Mahmudul Hasan</h1>
     <p>Fullstack Software Engineer (C# • F# • .NET • MSSQL • React)</p>
-    <p>📫 Find me on <a href="https://www.linkedin.com/in/hasan-75">LinkedIn</a> | <a href="http://doodlesofhasan.com">Medium</a></p>
+    <p>📫 Find me on <a href="https://github.com/Hasan-75">Github</a> | <a href="https://www.linkedin.com/in/hasan-75">LinkedIn</a> | <a href="http://doodlesofhasan.com">Medium</a></p>
   </div>
 </div>
 

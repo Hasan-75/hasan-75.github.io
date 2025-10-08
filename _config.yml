@@ -15,3 +15,11 @@ author:
   name: "Mahmudul Hasan"
   linkedin: "https://www.linkedin.com/in/hasan-75"
   medium: "https://doodlesofhasan.com"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css:
+        - /assets/css/custom.css
