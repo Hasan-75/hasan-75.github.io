@@ -113,8 +113,8 @@ Worked across core platforms powering one of Bangladesh’s largest e-commerce e
 
 ## 📊 GitHub Analytics
 ![Hasan's GitHub Stats](https://github-readme-stats-nine-eta-oemo7qcowl.vercel.app/api?username=hasan-75&include_all_commits=true&show_icons=true&theme=radical)
-![Hasan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasan-75\&theme=github-dark)
-![Top Languages](https://github-readme-stats-nine-eta-oemo7qcowl.vercel.app/api/top-langs/?username=Hasan-75\&layout=compact\&theme=vision-friendly-dark&count_private=true)
+![Hasan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasan-75&theme=github-dark)
+![Top Languages](https://github-readme-stats-nine-eta-oemo7qcowl.vercel.app/api/top-langs/?username=Hasan-75&layout=compact&theme=vision-friendly-dark&count_private=true)
 
 ---
 
